@@ -4,6 +4,6 @@ type: dataset
 title: "Data and code to reproduce time and place for (sustainable) campus planning"
 authors:
   - family-names: "Capaldi"
-    given-names: "Matthew"
+    given-names: "Matthew J."
 date-released: 2026-11-02
 repository-code: "https://github.com/ttalVlatt/Time-Place-Planning-HEP"
