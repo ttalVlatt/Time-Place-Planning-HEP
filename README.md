@@ -1,11 +1,11 @@
 This GitHub repo contains everything you need to reproduce all the analysis from Capaldi et al.'s (2026)
 "Time and Place for (Sustainable) Campus Planning" in Higher Education Policy
 
-The most valuable item for future research is Master-Plan-Text.csv
+The most valuable item for future research is `Master-Plan-Text.csv`
 - This contains plain text of all available campus master plans at large public US universities,
 along with the institution's IPEDS UNITID and other variables used in the paper
 
-The needed code is all in 01-STM.R
+The needed code is all in `01-STM.R`
 - Providing you have installed all the libraries, this should run out of the box
 
 There are 2 .Rdata files in the `R-Objects/` folder, `Many-Topics.Rdata` and `Search-K.Rdata`
