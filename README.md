@@ -12,5 +12,5 @@ There are 2 .Rdata files in the `R-Objects/` folder, `Many-Topics.Rdata` and `Se
 - These are pre-calculated outputs of the two longest run-time processes that identify the underlying topic model
 (running each can range from a few hours to exceeding capacity depending on your machine)
 - The script is set up to read them if they are there, or calculate them if not, so if you want to change something 
-in them or truly reproduce everything, simply delete the 2 .Rdata files
+in them or truly reproduce everything, simply delete the 2 `.Rdata` files
     - They will be re-written as the code runs
