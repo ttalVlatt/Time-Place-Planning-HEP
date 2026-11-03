@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this data or code, please cite this repository."
 type: dataset
-title: "Data and Code to Reproduce Time and Place for (Sustainable) Campus Planning"
+title: "Data and code to reproduce time and place for (sustainable) campus planning"
 authors:
   - family-names: "Capaldi"
     given-names: "Matthew"
