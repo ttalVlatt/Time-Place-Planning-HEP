@@ -5,8 +5,8 @@ The most valuable item for future research is `Master-Plan-Text.csv`
 - This contains plain text of all available campus master plans at large public US universities,
 along with the institution's IPEDS UNITID and other variables used in the paper
 
-The needed code is all in `01-STM.R`
-- Providing you have installed all the libraries, this should run out of the box
+The analysis code is all in `01-STM.R`
+- Providing you have installed all the libraries, this should run out of the box, re-producing all tables and graphs
 
 There are 2 .Rdata files in the `R-Objects/` folder, `Many-Topics.Rdata` and `Search-K.Rdata`
 - These are pre-calculated outputs of the two longest run-time processes that identify the underlying topic model
